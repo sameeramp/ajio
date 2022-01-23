@@ -1,0 +1,73 @@
+
+.header{
+
+    display: flex;
+    justify-content: space-between;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+}
+a{
+
+    color: black;
+    text-decoration: none;
+    
+}
+.button a{
+    padding: .5rem;
+    background-color: black;
+    color: aliceblue;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+
+}
+li a{
+    color: black ;
+
+    margin-left: 1rem;
+}
+li input{
+    border-radius: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding: .5rem;
+}
+.list1{
+    margin-left: 25rem;
+    padding-bottom: 1rem;
+    font-size: small;
+    color: gray;    
+}
+.list2{
+    justify-content: space-between;
+    
+}
+.icon{
+    font-size: 2rem;
+    /* border-radius: 60%; */
+    /* background-color: black; */
+    
+    padding-top: .3rem;
+  
+    margin-left: .2rem;
+    
+    
+}
+.logo{
+    font-size:25px;
+    
+    color:#2c4152;
+    margin-bottom: 1rem;
+    padding-left: 2rem;
+}
+
+/* sreehari */
+
+
+
+

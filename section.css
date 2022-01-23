@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    
+}
+.section{
+    padding-top: 3rem;
+}
+.image8  img{
+    
+    width: 100%
+
+}
+.image8{
+    display: flex;
+}
+
+.image18 img{
+    width: 100%;
+}
+.image18{
+    display: flex;
+}
+.width img{
+    width: 100%;
+}
+.width1{
+    display: flex;
+}
